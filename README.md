@@ -64,20 +64,20 @@ Desarrollar un módulo que permita a los usuarios registrarse, iniciar sesión y
 | Tarea                                                            | Estado       |
 |------------------------------------------------------------------|--------------|
 | pruebas funcionales del registro de usuario                      |  Finalizado  |
-| diseñar interfaz del formulario de registro                      |  En revision |
-| implementar logica de registro en backend                        |  En proceso  |
-| validar campos obligatorios y contraseña segura                  |  En proceso  |
-| guardar datos en base de datos (MongoDB)                         |  Pendiente   |
+| diseñar interfaz del formulario de registro                      |  Finalizado  |
+| implementar logica de registro en backend                        |  Finalizado  |
+| validar campos obligatorios y contraseña segura                  |  Finalizado  |
+| guardar datos en base de datos (MongoDB)                         |  En proceso  |
 | diseñar formulario de login                                      |  Finalizado  |
 | implementar logica de login                                      |  Finalizado  |
-| Pruebas unitarias del login                                      |  En revision |
-| mostrar mensaje de error al fallar login                         |  En proceso  |
-| crear middlleware  de autenticacion                              |  Pendiente   |
+| Pruebas unitarias del login                                      |  Finalizado  |
+| mostrar mensaje de error al fallar login                         |  Finalizado  |
+| crear middlleware  de autenticacion                              |  Finalizado  |
 | mostrar datos del usuario en dashboard                           |  Finalizado  |
 |validar emails duplicados en el registro                          |  Finalizado  |
-| diseñar vista del dashboard                                      |  En revision |
-| pruebas de seguridad del dashboard                               |  En proceso  |
-| restringir acceso al dashboard solo si autenticado               |  Pendiente   |
-| crear y mantener archivo README.md                               | Finalizado   |
+| diseñar vista del dashboard                                      |  Finalizado  |
+| pruebas de seguridad del dashboard                               |  Finalizado  |
+| restringir acceso al dashboard solo si autenticado               |  Finalizado  |
+| crear y mantener archivo README.md                               |  Finalizado  |
 ---
 
