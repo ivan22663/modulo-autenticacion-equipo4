@@ -30,7 +30,8 @@ Desarrollar un módulo que permita a los usuarios registrarse, iniciar sesión y
 
 ## Planificación Ágil – GitHub Projects
 
-[Acceder al tablero de GitHub Projects](https://github.com/users/ivan22663/projects/1)
+[Acceder al tablero de GitHub Projects](https://github.com/user-attachments/assets/788ea1e5-9b93-4b44-935b-5572ee38ece4)
+)
 
 **Columnas del tablero:**
 
@@ -60,16 +61,23 @@ Desarrollar un módulo que permita a los usuarios registrarse, iniciar sesión y
 
 ## Estado del Proyecto
 
-| Tarea                                     | Estado       |
-|-------------------------------------------|--------------|
-| Formulario de registro                    | ✅ Completado |
-| Validación de campos                      | ✅ Completado |
-| Registro en MongoDB                       | ✅ Completado |
-| Formulario de login                       | ✅ Completado |
-| Lógica y seguridad con JWT                | ✅ Completado |
-| Middleware de autenticación               | ✅ Completado |
-| Dashboard y protección de ruta            | 🟡 En proceso |
-| Pruebas y documentación final             | 🟡 En proceso |
-
+| Tarea                                                            | Estado       |
+|------------------------------------------------------------------|--------------|
+| pruebas funcionales del registro de usuario                      |  Finalizado  |
+| diseñar interfaz del formulario de registro                      |  En revision |
+| implementar logica de registro en backend                        |  En proceso  |
+| validar campos obligatorios y contraseña segura                  |  En proceso  |
+| guardar datos en base de datos (MongoDB)                         |  Pendiente   |
+| diseñar formulario de login                                      |  Finalizado  |
+| implementar logica de login                                      |  Finalizado  |
+| Pruebas unitarias del login                                      |  En revision |
+| mostrar mensaje de error al fallar login                         |  En proceso  |
+| crear middlleware  de autenticacion                              |  Pendiente   |
+| mostrar datos del usuario en dashboard                           |  Finalizado  |
+|validar emails duplicados en el registro                          |  Finalizado  |
+| diseñar vista del dashboard                                      |  En revision |
+| pruebas de seguridad del dashboard                               |  En proceso  |
+| restringir acceso al dashboard solo si autenticado               |  Pendiente   |
+| crear y mantener archivo README.md                               | Finalizado   |
 ---
 
