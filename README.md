@@ -1,8 +1,8 @@
-# Módulo de Autenticación – Equipo 3
+# Módulo de Autenticación – Equipo 4
 
 ## Objetivo del Módulo
 
-Desarrollar un módulo que permita a los usuarios registrarse, iniciar sesión y acceder a un dashboard personalizado, implementado bajo principios de desarrollo ágil, clean code, control de versiones con Git y planificación con GitHub Projects.
+Desarrollar un módulo que permita a los usuarios registrarse, iniciar sesión y acceder a un dashboard personalizado, implementado bajo principios de desarrollo ágil, clean code
 
 ---
 
