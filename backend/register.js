@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         alert('Registro exitoso. Será redirigido al login.');
-        window.location.href = 'login.html';
+        window.location.href = 'index.html';
     });
 
     
